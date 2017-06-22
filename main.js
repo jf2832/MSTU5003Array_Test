@@ -242,7 +242,7 @@ TEST
 function gotosite() {
  
 
-  var URL = document.activity_selector.url_list.options[document.activity_selector.url_list.selectedIndex].activity;
+  var URL = document.activity_selector.activity_list.options[document.activity_selector.url_list.selectedIndex].activity;
   window.location.href = URL;
 }
 
