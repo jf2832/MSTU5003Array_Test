@@ -211,19 +211,19 @@ STUDENT VIEW: ACTIVITY CHOICES
 var Activities = [
   {
   title: "To Post or not to Post?",
-  url: index.html
+  url: "index.html"
 
 }, {
    title:"Chatting Online",
-   url: index.html
+   url: "index.html"
 
 }, {
    title: "Password Security",
-   url: index.html
+   url: "index.html"
 
 }, {
    title:"Internet Safety Infographic",
-   url: index.html
+   url: "index.html"
 }];
 
 function selectActivity() {
