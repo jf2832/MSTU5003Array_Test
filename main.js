@@ -239,10 +239,9 @@ document.getElementById("activity-numbers").onclick = selectActivity;
 TEST
 ************************************/
 
-function gotosite() {
- 
-
-  var URL = document.activity_selector.activity_list.options[document.activity_selector.url_list.selectedIndex].activity;
+function goToSite() {
+  var activityNumber = document.getElementById("activity-numbers").value;
+  var URL = Activities[activityNumber].url;
   window.location.href = URL;
 }
 
