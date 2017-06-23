@@ -215,15 +215,15 @@ var Activities = [
 
 }, {
    title:"Chatting Online",
-   url: "index.html"
+   url: "https://www.youtube.com/"
 
 }, {
    title: "Password Security",
-   url: "index.html"
+   url: "http://www.history.com/"
 
 }, {
    title:"Internet Safety Infographic",
-   url: "index.html"
+   url: "http://www.history.com/"
 }];
 
 function selectActivity() {
