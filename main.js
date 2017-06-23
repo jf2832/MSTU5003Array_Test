@@ -211,7 +211,7 @@ STUDENT VIEW: ACTIVITY CHOICES
 var Activities = [
   {
   title: "To Post or not to Post?",
-  url: "index.html"
+  url: "https://www.youtube.com/"
 
 }, {
    title:"Chatting Online",
